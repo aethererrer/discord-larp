@@ -1,0 +1,12 @@
+{
+  "name": "Larp",
+  "description": "Client-side profile spoofing",
+  "authors": [
+    {
+      "name": "Unknown",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "version": "11.1.5"
+}
